@@ -13,4 +13,5 @@ The task was to create web application, which can authenticate user with passwor
 4. Has secret page for authenticated users on http://localhost:5000/cabinet
 
 In this homework I had pre-defined usernames and passwords inside my application, to login use 'user' and password '123'
+
 Cabinet returnes a page with some text and an image
